@@ -1,0 +1,49 @@
+/* my CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgba(219, 217, 218, 0.58);
+    color: #080b79;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-size: 15px;
+}
+
+#container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+#header, #footer {
+    background: #080b79;
+    color: #a80413;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.lead {
+    font-size: 18px;
+}
+
+.blog-post {
+    background: rgba(254, 255, 91, 0.32);
+    padding: 30px;
+    margin: 0 10px 10px;
+}
+
+h1,h2,h3 {
+    color: #ff041a;
+}
+
+.blog-post h2, .blog-post p {
+    margin-bottom: 10px;
+}
+
+.blog-post em {
+    color: #ccc;
+}
