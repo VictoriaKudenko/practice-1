@@ -47,3 +47,12 @@ h1,h2,h3 {
 .blog-post em {
     color: #ccc;
 }
+
+a:link, a:visited {
+    color: #ff041a;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+}
